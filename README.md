@@ -10,7 +10,7 @@ I crawled the rank, and the stars given by the player.<br>
 
 And then I line up the games by the rank+stars_ranking, find and store the review-page of them.<br>
 Then I crawled the reviews of them, and get datas in excel form.<br>
-By anaconda, the excel files transform to list with word(in the review),<br>
+By anaconda Jupyter Notebook, the excel files transform to list with word(in the review),<br>
 I make a wordcloud by frequency of the words.<br>
 
 
